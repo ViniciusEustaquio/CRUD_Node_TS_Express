@@ -42,7 +42,7 @@ This is a Node.js application built using the Express framework. It provides a R
 
 3. Create a `.env` file in the root directory and set the following environment variable:
    ```env
-   PORT=3000
+   PORT=3333
    ```
 
 ### Running the Application
